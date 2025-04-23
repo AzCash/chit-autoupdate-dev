@@ -3,7 +3,7 @@
 ## v1.4.13
 - Add dev tag to app icon
 - Fix: update profile
-- 
+
 ## v1.4.12
 - Fix concurrent vault method requests
 - Fix auto unship errors
