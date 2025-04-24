@@ -1,5 +1,8 @@
 # Version History
 
+## v1.4.14
+- Fix: increase member fetch limit
+
 ## v1.4.13
 - Add dev tag to app icon
 - Fix: update profile
