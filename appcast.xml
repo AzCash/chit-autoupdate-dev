@@ -3,13 +3,13 @@
     <channel>
         <title>CHIT</title>
         <item>
-            <title>1.4.16</title>
-            <pubDate>Thu, 08 May 2025 12:29:14 -0500</pubDate>
-            <sparkle:version>1.4.16</sparkle:version>
-            <sparkle:shortVersionString>1.4.16</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <title>1.5.0</title>
+            <pubDate>Wed, 28 May 2025 09:46:30 -0500</pubDate>
+            <sparkle:version>1.5.0</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:fullReleaseNotesLink>https://azcash.github.io/chit-autoupdate-dev/release-notes/history</sparkle:fullReleaseNotesLink>
-            <enclosure url="https://github.com/AzCash/chit-autoupdate-dev/releases/download/v1.4.16/CHIT-DEV-v1.4.16.dmg" length="41495669" type="application/octet-stream" sparkle:edSignature="u001yXjtmwtZCdyReYRf8ybvnuhHw+MJ4Cz3eeP6GjOthORaPDqxw54+eq3goAwNm/4QooH4huFHs2De72JQBQ=="/>
+            <enclosure url="https://github.com/AzCash/chit-autoupdate-dev/releases/download/v1.5.0/CHIT-DEV-v1.5.0.dmg" length="41557923" type="application/octet-stream" sparkle:edSignature="76dBnsQl/RTgtu8B4G4bxz2AIEkzHr9PW+vO8ajPZ6YykJuI0Pqhy5RbF57/UubjjNl4O/dIl91P1mRusdCRAw=="/>
         </item>
     </channel>
 </rss>
