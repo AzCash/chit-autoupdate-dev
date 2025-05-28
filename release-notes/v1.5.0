@@ -1,0 +1,9 @@
+## v1.5.0
+- fix: vault manager increase time for bill breaker change
+- fix: geolocation failing without wifi
+- feature: trade and fund tab views
+- feature: vault reader tab and view
+- feature: order amount max limit validation error
+- task: verbose order error handling
+- feature: externally sourced envvars
+- task: enforce macos v15
