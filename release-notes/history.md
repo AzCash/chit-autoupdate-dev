@@ -1,5 +1,8 @@
 # Version History
 
+## v1.5.0 (07/02/25)
+- refactor: update fetch creds (internal)
+
 ## v1.5.0
 - fix: vault manager increase time for bill breaker change
 - fix: geolocation failing without wifi
